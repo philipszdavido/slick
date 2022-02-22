@@ -1,5 +1,6 @@
 @charset 'UTF-8';
 /* Slider */
+/* purgecss start ignore */
 .slick-loading .slick-list {
   background: #fff url("./ajax-loader.gif") center center no-repeat;
 }
@@ -183,3 +184,4 @@
   opacity: 0.75;
   color: black;
 }
+/* purgecss end ignore */
